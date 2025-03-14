@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on a WhatsApp bot to thwart scammers<br>🌱I'm currently learning react.js and strengthening my skills in TypeScript<br>⚡Fun Fact: I always want my commits to have extensive changes which causes me never to commit :P <br>
+🔭I'm currently working on a WhatsApp bot to thwart scammers<br>🌱I'm currently learning react.js and strengthening my skills in TypeScript<br>⚡Fun Fact: I always want my commits to have extensive changes <br>
 
 
 ## 🌐 Socials:
