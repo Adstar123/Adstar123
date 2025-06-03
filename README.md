@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on a WhatsApp bot to thwart scammers<br>🌱I'm currently learning react.js and strengthening my skills in TypeScript<br>⚡Fun Fact: I always want my commits to have extensive changes <br>
+🔭I'm currently working on a GTO based poker trainer and also a Network traffic rerouter tool<br>🌱I'm currently learning react.js and strengthening my skills in TypeScript<br>⚡Fun Fact: I always want my commits to have extensive changes <br>
 
 
 ## 🌐 Socials:
