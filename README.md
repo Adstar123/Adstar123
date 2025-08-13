@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on a GTO based poker trainer and also a Network traffic rerouter tool<br>🌱I'm currently learning react.js and strengthening my skills in TypeScript<br>⚡I've been trying recently to do a lot more leetcodes. See my profile [here](https://leetcode.com/u/Adstar123/)<br>\
+🔭I'm currently working on a GTO based poker trainer and also a Network traffic rerouter tool<br>🌱I'm currently learning react.js and strengthening my skills in TypeScript<br>⚡I've been trying recently to do a lot more leetcodes. See my profile [here](https://leetcode.com/u/Adstar123/)<br>
 
 
 ## 🌐 Socials:
